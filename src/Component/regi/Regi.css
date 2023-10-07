@@ -4,9 +4,38 @@
 
 }
 
+.registration-success-message {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 300px;
+    z-index: 999;
+    border-radius: 7px;
+}
+
 .registration-card {
     text-align: center;
     justify-content: center;
+    -webkit-box-align: center;
+    width: 350px;
+    border: 1px solid rgb(43, 43, 53);
+    border-radius: 5px;
+
+
+
+
+}
+
+.registration-container .registration-card {
+    text-align: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
@@ -25,7 +54,7 @@
 }
 
 .registration-button {
-    height: 40px;
+    /* height: 40px;
     width: 275px;
     font-size: 12px;
     margin-bottom: 15px;
@@ -34,5 +63,19 @@
     padding: 5px;
     color: lime;
     background-color: rgb(78, 105, 108);
-    padding-left: 10px;
+    padding-left: 10px; */
+
+    height: 40px;
+    width: 275px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    /* margin-top: 10px; */
+    background-color: rgb(93, 93, 207);
+    color: aliceblue;
+}
+
+.registration-container {
+    margin-top: 0px;
 }
