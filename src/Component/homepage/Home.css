@@ -1,0 +1,35 @@
+.abc {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(209, 209, 221);
+    margin: 10px;
+    border-radius: 7px;
+}
+
+.homediv {
+    display: flex;
+    margin-top: 50px;
+
+
+}
+
+.homemain h3 {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.homediv {
+    padding-left: 150px;
+}
+
+.abc p {
+    font-size: 13px;
+    padding: 10px;
+}
+
+.abc h4 {
+    font-size: 16px;
+    padding: 5px;
+}

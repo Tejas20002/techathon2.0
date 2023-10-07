@@ -1,0 +1,96 @@
+.get button {
+    text-align: center;
+    background-color: lime;
+    border: none;
+
+    border-radius: 10px;
+    height: 30px;
+    padding: 10px;
+}
+
+.get {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.signin {
+    text-align: center;
+    justify-content: center;
+}
+
+.signin h1 {
+    color: #e5aaff;
+    margin-top: 50px;
+
+}
+
+.signin h4 {
+    color: #e5aaff;
+
+}
+
+.signupr {
+    color: #e5aaff;
+}
+
+.signupr .uu {
+    color: lime;
+    text-decoration: none;
+}
+
+.formname input {
+    height: 30px;
+    width: 260px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+
+}
+
+.submitbtn {
+    height: 30px;
+    width: 260px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+
+}
+
+.formname button {
+    height: 30px;
+    width: 260px;
+    font-size: 15px;
+
+}
+
+.googlesign {
+    display: inline;
+    text-align: center;
+    justify-content: center;
+
+
+
+}
+
+.googlesign div button {
+    display: inline;
+    text-align: center;
+    justify-content: center;
+    height: 30px;
+    width: 260px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+
+
+}
+
+.orc {
+    margin-top: 0px;
+    line-height: 0.5px;
+
+}

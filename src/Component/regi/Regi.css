@@ -1,0 +1,38 @@
+.registration-card h2 {
+    color: #e5aaff;
+    font-size: 30px;
+
+}
+
+.registration-card {
+    text-align: center;
+    justify-content: center;
+
+}
+
+.registration-card input {
+    height: 30px;
+    width: 260px;
+    font-size: 12px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    color: rgb(179, 182, 185);
+    background-color: rgb(78, 78, 108);
+    padding-left: 10px;
+
+}
+
+.registration-button {
+    height: 40px;
+    width: 275px;
+    font-size: 12px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    color: lime;
+    background-color: rgb(78, 105, 108);
+    padding-left: 10px;
+}
