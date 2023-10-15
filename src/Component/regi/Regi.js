@@ -97,7 +97,7 @@ function Regi() {
                         </button>
                     </>
                 )}
-                <p className='signupr'>Already Have an Account! <Link className='uu' to="/RegistrationForm">Signin</Link></p>
+                <p className='signupr'>Already Have an Account! <Link className='uu' to="/Login">Signin</Link></p>
             </div>
         </div>
     );
